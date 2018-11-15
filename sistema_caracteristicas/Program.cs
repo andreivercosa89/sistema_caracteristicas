@@ -6,7 +6,15 @@ namespace sistema_caracteristicas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Mamifero m = new Mamifero();
+            Humano h = new Humano();
+            Baleia b = new Baleia();
+            Felino f = new Felino();
+
+
+            h.dormir();//Foi sobrescrita
+            f.dormir();//Ainda eh o metodo da class Mamifero
+
         }
     }
 }
