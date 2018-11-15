@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{60951575-9EF7-421B-87FE-5B557DA1ADE1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sistema_caracteristicas/Felino.cs">
+    <Files>
+      <File FileName="sistema_caracteristicas/Program.cs" Line="1" Column="1" />
+      <File FileName="sistema_caracteristicas/Mamifero.cs" Line="1" Column="1" />
+      <File FileName="sistema_caracteristicas/Humano.cs" Line="1" Column="1" />
+      <File FileName="sistema_caracteristicas/Baleia.cs" Line="1" Column="1" />
+      <File FileName="sistema_caracteristicas/Felino.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.sistema__caracteristicas PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
